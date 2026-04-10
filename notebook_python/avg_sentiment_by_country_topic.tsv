@@ -1,0 +1,64 @@
+country	CAP_category	avg_sentiment	total_words
+HR	Agriculture	2.38	112309
+HR	Civil Rights	2.12	107902
+HR	Culture	2.36	39167
+HR	Defense	2.3	180912
+HR	Domestic Commerce	2.27	129151
+HR	Education	2.55	102227
+HR	Energy	2.68	26459
+HR	Environment	2.06	32791
+HR	Foreign Trade	2.48	16535
+HR	Government Operations	2.12	441484
+HR	Health	2.18	117679
+HR	Housing	2.21	120316
+HR	Immigration	2.45	6357
+HR	International Affairs	2.28	96926
+HR	Labor	2.16	103363
+HR	Law and Crime	1.88	216898
+HR	Macroeconomics	1.92	518226
+HR	Public Lands	2.44	54518
+HR	Social Welfare	2.15	143547
+HR	Technology	2.39	45338
+HR	Transportation	2.2	147597
+HU	Agriculture	2.18	241456
+HU	Civil Rights	2.08	185415
+HU	Culture	2.7	68864
+HU	Defense	2.31	97490
+HU	Domestic Commerce	2.05	492478
+HU	Education	2.14	292229
+HU	Energy	2.11	234348
+HU	Environment	2.08	168073
+HU	Foreign Trade	2.26	42376
+HU	Government Operations	1.76	500721
+HU	Health	2.15	243554
+HU	Housing	2.05	85580
+HU	Immigration	1.77	174298
+HU	International Affairs	2.2	188674
+HU	Labor	1.89	204784
+HU	Law and Crime	2.01	290204
+HU	Macroeconomics	2.09	696248
+HU	Public Lands	1.92	69422
+HU	Social Welfare	2.2	220099
+HU	Technology	2.12	93668
+HU	Transportation	2.38	142674
+RS	Agriculture	1.82	111274
+RS	Civil Rights	1.49	134759
+RS	Culture	2.11	10662
+RS	Defense	1.62	15018
+RS	Domestic Commerce	2.18	145248
+RS	Education	1.87	70465
+RS	Energy	1.49	6504
+RS	Environment	1.62	5000
+RS	Foreign Trade	1.51	1993
+RS	Government Operations	1.67	664055
+RS	Health	1.64	61180
+RS	Housing	1.64	111611
+RS	Immigration	1.43	5845
+RS	International Affairs	1.75	289870
+RS	Labor	1.69	314656
+RS	Law and Crime	1.4	436995
+RS	Macroeconomics	1.88	762973
+RS	Public Lands	1.76	3996
+RS	Social Welfare	2.06	58168
+RS	Technology	1.38	34821
+RS	Transportation	1.81	40703
