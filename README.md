@@ -27,7 +27,7 @@ The notebooks in `notebook_python` now use the **ParlaCAP API directly**.
 4. Save your key in `my_secrets.env` in the repo root:
 
 ```text
-parlacapi_key=YOUR_API_KEY_HERE
+PARLACAP_API_KEY=YOUR_API_KEY_HERE
 ```
 
 The tutorial notebooks read this file directly. Most API cells use short pagination with `limit=1000` and `offset=0, 1000, 2000, ...`.
